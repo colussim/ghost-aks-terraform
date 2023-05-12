@@ -55,8 +55,6 @@ I have decomposed the Terraform deployment in several steps,to better understand
 - Step4 : Deployment Ghost Production
 - Step5 : Deployment Ghost DEV
 
-The purpose of this tutorial is to create an AKS cluster (2 nodes) with Terraform and to deploy 2 instances of Ghost (Production and Development).
-To expose our Blog services and other services we will deploy an Ingress controller and a certificate manager.
 
 ![ingress](/images/ingress.png)
 
@@ -78,6 +76,9 @@ We will create a Ghost deployment GitHub action for each site (Production and De
 To be notified as soon as there is an event in our Organization on the repositories (created, deleted, archived, not archived, made public, privatized, edited, renamed, or transferred) and a push, we will be able to use the GitHub webhooks to for example receive a message in a Slack channel or in a monitoring application.
 
 ![githubaction](/images/githubaction2.gif)
+
+The purpose of this tutorial is to create an AKS cluster (2 nodes) with Terraform and to deploy 2 instances of Ghost (Production and Development).
+To expose our Blog services and other services we will deploy an Ingress controller and a certificate manager.
 
 > For this tutorial I did not set up a DNS with a domain, I would use a resolution by hosts file.
 > The configuration values for our deployment are defined in the **variables.tf** file of each module.
