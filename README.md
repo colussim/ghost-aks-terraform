@@ -42,7 +42,8 @@ That will meet the needs of :
 
 Moreover, if you do not have a DBA expert in your team 😀, these features require almost no administration.
 
-Last thing, to automate this deployment we will use Terraform.Terraform is an  open-source infrastructure as code tool that lets you define both cloud and on-prem resources in human-readable configuration files that you can version, reuse, and share.
+Last thing, to automate this deployment we will use Terraform.
+Terraform is an  open-source infrastructure as code tool that lets you define both cloud and on-prem resources in human-readable configuration files that you can version, reuse, and share.
 
 ![terraform](/images/terraform.png)
 
