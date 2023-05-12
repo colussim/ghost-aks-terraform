@@ -83,6 +83,7 @@ The purpose of this tutorial is to create an AKS cluster (2 nodes) with Terrafor
 To expose our Blog services and other services we will deploy an Ingress controller and a certificate manager.
 
 > For this tutorial I did not set up a DNS with a domain, I would use a resolution by hosts file.
+> 
 > The configuration values for our deployment are defined in the **variables.tf** file of each module.
 
 # Architecture
