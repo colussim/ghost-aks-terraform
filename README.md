@@ -504,10 +504,12 @@ Now open a web-browser at **https://ghostdev1.droneshuttles.com** and check th
 
 With Terraform, booting a AKS cluster can be done with a single command and it only takes some minutes to get a fully functional configuration.
 Terraform makes it easy to manage Kubernetes clusters and Kubernetes resources effectively. It gives organizations the opportunity to work with infrastructure-as-code, management of platforms, and also the opportunity to create modules for self-service infrastructure. Terraform Kubernetes provider gives organizations all the required tools necessary to manage Kubernetes clusters in the environment.
+
 Kubernetes brings to your applications :
 - Scalability
 - High Availability
 - Development agility
+- 
 Using the Azure Database for MySQL service we have a full manager solution for our databases.
 
 
