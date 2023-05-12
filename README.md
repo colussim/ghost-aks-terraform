@@ -503,6 +503,9 @@ The IP address 20.238.184.3 and the public IP of the ingress controller  ser
 Now open a web-browser at **https://ghostdev1.droneshuttles.com** and check that you can get a response from the service.
 ![GHOST dev](/images/ghostdev.png)
 
+## Next
+
+The next step would be to set up a backup solution.
 
 ## Conclusion
 
