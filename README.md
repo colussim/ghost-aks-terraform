@@ -71,6 +71,7 @@ Cert-manager is a Kubernetes add-on module for TLS certificate management. Cert-
 
 
 **Development**
+
 GitHub Actions is a continuous integration/delivery platform that allows you to automate all kinds of things, courtesy of GitHub's servers. Ghost already provides an official GitHub Action for theme deployment.
 With this GitHub Action configured, anytime you push an update to your theme, that update will be sent directly to your website. No upload required.
 We will create a Ghost deployment GitHub action for each site (Production and Development).
