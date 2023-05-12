@@ -509,7 +509,7 @@ Kubernetes brings to your applications :
 - Scalability
 - High Availability
 - Development agility
-- 
+
 Using the Azure Database for MySQL service we have a full manager solution for our databases.
 
 
