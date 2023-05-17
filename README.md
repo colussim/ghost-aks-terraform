@@ -528,4 +528,4 @@ Using the Azure Database for MySQL service we have a full manager solution for o
 
 [Documentation, GitHub Actions](https://ghost.org/integrations/github/ "GitHub Actions for Ghost")
 
-[Documentation, Azure Database for MySQ](https://learn.microsoft.com/en-us/azure/mysql/single-server/overview/ "Azure Database for MySQ")
+[Documentation, Azure Database for MySQ](https://learn.microsoft.com/en-us/azure/mysql/single-server/overview/ "Azure Database for MySQL")
